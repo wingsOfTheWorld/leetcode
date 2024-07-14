@@ -1,7 +1,7 @@
 class Solution:
     def twoSum(self, nums, target: int):
         """
-
+        Time Complexity is O(N), space complexity is O(N)
         :param nums:
         :param target:
         :return:
